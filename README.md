@@ -6,6 +6,8 @@ Python program to View Registered Voters Information by entering NIC no
 
   git clone https://github.com/GH0STH4CKER/Voters_Info_SL.git
 
+  requirements.txt
+  
   cd Voters_Info_SL
 
   python3 Voters_Info_SL.py
