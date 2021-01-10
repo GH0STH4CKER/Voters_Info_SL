@@ -1,7 +1,7 @@
 # Voters_Info_SL
 
-Python program to View Registered Voters Information by entering NIC no
-
+  <h2>Python program to View Registered Voters Information by entering NIC no </h2>
+<br>
   <h2>******************** Termux Commands ********************</h2>
  
   <h2>git clone https://github.com/GH0STH4CKER/Voters_Info_SL.git</h2>
