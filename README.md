@@ -17,5 +17,4 @@ python3 Voters_Info_SL.py
 
 <h2>Contact Me :</h2><br>
 <a href="https://t.me/Dimuth92">Telegram</a>
-
 <a href="https://m.me/dimuth92">Messenger</a>
