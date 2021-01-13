@@ -15,3 +15,6 @@ python3 Voters_Info_SL.py
 
 <img src="https://github.com/GH0STH4CKER/Voters_Info_SL/blob/main/Installation.gif" >
 
+<h2>Contact Me :</h2>
+<a href="https://t.me/Dimuth92">Telegram</a>
+<a href="https://m.me/dimuth92">Messenger</a>
