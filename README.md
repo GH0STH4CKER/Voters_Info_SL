@@ -17,4 +17,4 @@ python3 Voters_Info_SL.py
 
 <h2>Contact Me :</h2><br>
 <a href="https://t.me/Dimuth92"><img src="https://i.ibb.co/kX24Ry5/telegramiconpng.png" width="50" ></a>
-<a href="https://m.me/dimuth92"><img src="https://i.ibb.co/7X02FCr/messengericon1.png" width="60"></a>
+<a href="https://m.me/dimuth92"><img src="https://i.ibb.co/TM4zKgT/messengericon2.png" width="50"></a>
