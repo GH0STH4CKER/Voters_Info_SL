@@ -16,5 +16,5 @@ python3 Voters_Info_SL.py
 <img src="https://github.com/GH0STH4CKER/Voters_Info_SL/blob/main/Installation.gif" >
 
 <h2>Contact Me :</h2><br>
-<a href="https://t.me/Dimuth92"><img src="https://i.ibb.co/kX24Ry5/telegramiconpng.png"></a>
-<a href="https://m.me/dimuth92"><img src="https://i.ibb.co/y6Q6XXd/messengericon.png"></a>
+<a href="https://t.me/Dimuth92"><img src="https://i.ibb.co/kX24Ry5/telegramiconpng.png" width="50" ></a>
+<a href="https://m.me/dimuth92"><img src="https://i.ibb.co/7X02FCr/messengericon1.png"></a>
