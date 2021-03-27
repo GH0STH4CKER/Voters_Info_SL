@@ -11,7 +11,7 @@
 git clone https://github.com/GH0STH4CKER/Voters_Info_SL.git
 pip install -r requirements.txt
 cd Voters_Info_SL
-python3 Voters_Info_SL.py
+python3 Voters_Info_SL_V2.py
 ```
 
 <img src="https://github.com/GH0STH4CKER/Voters_Info_SL/blob/main/Installation.gif" >
