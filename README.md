@@ -4,6 +4,8 @@
 
 <img src="https://github.com/GH0STH4CKER/Voters_Info_SL/blob/main/Screenshot1.png">
 
+<h2><font family='Lucida' face='Bright' color='red'>N</font></h2>
+
 # Installation & Running
 
 ```
