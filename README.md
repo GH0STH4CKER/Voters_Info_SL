@@ -4,7 +4,7 @@
 
 <img src="https://github.com/GH0STH4CKER/Voters_Info_SL/blob/main/Screenshot1.png">
 
--N
+hello
 
 # Installation & Running
 
