@@ -5,7 +5,8 @@
 <img src="https://github.com/GH0STH4CKER/Voters_Info_SL/blob/main/Screenshot1.png">
 
 <img src="https://raw.githubusercontent.com/GH0STH4CKER/Voters_Info_SL/main/nolongerworks.jpg">
-
+<h2>They put otp on site. I couldn't bypass it</h2>
+<br><br>
 # Installation & Running
 
 ```
