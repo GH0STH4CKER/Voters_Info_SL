@@ -4,6 +4,7 @@
 
 <img src="https://github.com/GH0STH4CKER/Voters_Info_SL/blob/main/screenshot[vinfo].png">
 
+<img src='https://img.shields.io/badge/Run-Failing-red' >
 <br>
 # Installation & Running
 
