@@ -4,6 +4,7 @@
 
 <img src="https://github.com/GH0STH4CKER/Voters_Info_SL/blob/main/screenshot[vinfo].png">
 
+# Update :
 <img src='https://img.shields.io/badge/Run-Failing-red' >
 <a href='https://eservices.elections.gov.lk/pages/myVoterRegistration.aspx'><img src='https://img.shields.io/badge/Reason-Cannot Bypass Recaptcha-yellow' ></a>
 </br>
